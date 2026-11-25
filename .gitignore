@@ -11,3 +11,5 @@ __pycache__/
 artifacts/
 recordings/
 *.mp4
+report.json
+report.txt
